@@ -41,3 +41,11 @@ body {
     transform: rotate(360deg);
   }
 }
+
+.block {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 25px;
+  color: #282c34;
+}
